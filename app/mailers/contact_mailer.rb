@@ -7,4 +7,8 @@ class ContactMailer < ActionMailer::Base
     
     mail(from: email, subject: 'Contact Form Message')
   end
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> b689761cf8de9574754ea7e51e4e7cb093f732c2
